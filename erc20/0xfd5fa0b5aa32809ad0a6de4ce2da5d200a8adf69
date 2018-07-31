@@ -1,0 +1,25 @@
+{
+  "symbol": "FuleexExchangeCoin,
+  "address": "0xfd5fa0b5aa32809ad0a6de4ce2da5d200a8adf69",
+  "overview":{
+        "en": "Fuleex Exchange Plafrom.",
+        "zh": "Fuleex Exchange Plafrom"
+  },
+  "email": "info@fuleex.io",
+  "website": "https://www.fuleex.io/",
+  "whitepaper": "https://www.fuleex.io/files/Fuleex_whitepaper_EN.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-08-01",
+  "initial_price":{
+        "ETH":"0.005 ETH",
+        "USD":"2.00 USD",
+        "BTC":"0.000281690140845 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/Fuleex_",
+    "telegram": "https://t.me/joinchat/D7TS0RLNKRh-23wMcf7TqQ",
+    "github": "https://github.com/Fuleex_Exchange_Plafrom",
+    "facebook": "https://www.facebook.com/fuleex",
+    "linkedin": "https://www.linkedin.com/company/fuleex"
+  }
+}
