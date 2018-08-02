@@ -1,0 +1,32 @@
+
+{
+  "symbol": "Fuleex Exchange Plaform",
+  "address": "0xfd5fa0b5aa32809ad0a6de4ce2da5d200a8adf69",
+  "overview":{
+        "en": "FULEEX seeks to revolutionize the way everyday retail transaction payments and non-bank money transfers for mass
+consumers are done, by creating the Fuleex Exchange as a virtual payment and transfer utility within the cryptocurrency ecosystem. Fuleex intends to build an important payment and transfer system utilizing its Fuleex coin as a means of
+payment for retail transactions, and to drastically reduce the high money transfer costs for consumers that are associated with traditional money services. Fuleex
+will target developing countries where migrant workers use money transfer services to send funds to their home countries. By using the Fuleex Blockchain
+Technology platform with its Money Service Center partners in over 20 countries, Fuleex will save consumers the high transfer costs charged by institutional
+money service organizations.,
+        "zh": "FULEEX旨在彻底改变日常零售交易支付和非银行资金转移的方式,消费者通过在加密货币生态系统中创建Fuleex Exchange作为虚拟支付和转移实用程序来完成。 Fuleex打算利用其Fuleex硬币作为手段建立一个重要的支付和转移系统
+支付零售交易，并大幅降低与传统货币服务相关的消费者的高转移成本。 Fuleex将针对移民工人使用汇款服务向其本国汇款的发展中国家。通过使用Fuleex区块链技术平台与其服务中心合作伙伴遍布20多个国家，Fuleex将为消费者节省机构收取的高额转账费用
+货币服务组织。"
+  },
+  "email": " info@fuleex.io",
+  "website": "https://www.fuleex.io/",
+  "whitepaper": "https://www.fuleex.io/files/Fuleex_whitepaper_EN.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-01",
+  "initial_price":{
+        "ETH":"0.00462963 ETH",
+        "USD":"2.0 USD",
+        "BTC":"0.00025907 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/Fuleex_",
+    "telegram": "https://t.me/joinchat/D7TS0RLNKRh-23wMcf7TqQ",
+    "github": "https://github.com/Jefflowfuleex/FuleexPlaform",
+    "facebook": "https://www.facebook.com/fuleex",
+  }
+}
